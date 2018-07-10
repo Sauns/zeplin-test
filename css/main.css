@@ -93,4 +93,29 @@ header {
   line-height: 1.38;
   font-size: 16px; }
 
+.product_block {
+  background-color: #fddd37; }
+
+.product_block_inner {
+  max-width: 1196px;
+  margin: 0 auto; }
+
+.product_block_image {
+  margin-top: 221px;
+  display: inline-block; }
+
+.product_block_title {
+  color: #000;
+  font-family: "Raleway", sans-serif;
+  max-width: 445px;
+  font-size: 55px;
+  font-weight: 800;
+  display: inline-block;
+  vertical-align: top;
+  margin: 252px 0 0 60px; }
+
+.product_block_inner {
+  background: url(../images/fill.png) no-repeat;
+  background-position: right 52px; }
+
 /*# sourceMappingURL=main.css.map */
