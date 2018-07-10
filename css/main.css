@@ -1,3 +1,6 @@
+ul {
+  padding: 0; }
+
 header {
   background-color: #0075ff;
   padding: 35px 0 73px; }
@@ -163,5 +166,48 @@ header {
 .sale_btn_wrap {
   text-align: center;
   padding-top: 20px; }
+
+footer {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 70px 0 62px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; }
+
+.fot_nav li {
+  display: inline-block; }
+
+.fot_social {
+  width: 247px;
+  display: flex;
+  justify-content: space-between; }
+
+.fot_nav a {
+  text-decoration: none;
+  margin-right: 67px;
+  color: #9b9b9b;
+  font-family: Helveticaneue;
+  font-size: 16px; }
+
+.fot_social a {
+  display: inline-block;
+  vertical-align: top;
+  width: 22px;
+  height: 17px;
+  background-size: contain;
+  background-position: center; }
+
+.facebok {
+  background: url(../images/facebook.svg) no-repeat; }
+
+.twit {
+  background: url(../images/twitter.svg) no-repeat; }
+
+.in_social {
+  background: url(../images/linked-in.svg) no-repeat; }
+
+.p_social {
+  background: url(../images/pininterest.svg) no-repeat; }
 
 /*# sourceMappingURL=main.css.map */
