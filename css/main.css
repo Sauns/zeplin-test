@@ -51,4 +51,46 @@ header {
   padding: 19.5px 34px;
   display: inline-block; }
 
+.business_block {
+  max-width: 980px;
+  margin: 0 auto; }
+
+.business_title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 60px;
+  color: #000;
+  max-width: 570px;
+  margin: 80px 0 60px; }
+
+.business_items_wrap {
+  display: flex;
+  flex-wrap: wrap; }
+
+.business_item {
+  max-width: 221px;
+  margin-right: 155px;
+  margin: 0 155px 41px 0; }
+
+.business_item:nth-child(3n+3) {
+  margin-right: 0px; }
+
+.business_item img {
+  display: block;
+  max-width: 100%; }
+
+.business_item_title {
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #0075ff; }
+
+.business_item_descr {
+  font-family: "Raleway", sans-serif;
+  color: #000;
+  line-height: 1.38;
+  font-size: 16px; }
+
 /*# sourceMappingURL=main.css.map */
