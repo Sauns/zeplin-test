@@ -1,0 +1,28 @@
+header{background-color:#0075ff;padding:35px 0 73px}
+.header_top{max-width:1180px;margin:0 auto;overflow:hidden}
+.right_header_link{float:right;color:#fff;font-family:Helveticaneue;font-size:16px}
+.botttom_header{margin-top:110px;margin:0 auto;max-width:960px;position:relative}
+.page_title{font-family:Raleway,sans-serif;color:#fff;font-weight:900;font-size:70px;line-height:1.21;max-width:661px}
+.image_block{position:absolute;top:0;right:0;max-width:478px;max-height:488px}
+.main_descripton{font-family:Helveticaneue;color:#fff;line-height:1.25;font-size:20px;max-width:454px;margin-bottom:50px}
+.btn{text-decoration:none;background:#fff;font-family:Helveticaneue;font-size:23px;color:#0075ff;padding:19.5px 34px;display:inline-block}
+.business_block{max-width:980px;margin:0 auto}
+.business_title{font-family:Raleway,sans-serif;font-weight:800;font-size:60px;color:#000;max-width:570px;margin:80px 0 60px}
+.business_items_wrap{display:flex;flex-wrap:wrap}
+.business_item{max-width:221px;margin-right:155px;margin:0 155px 41px 0}
+.business_item:nth-child(3n+3){margin-right:0}
+.business_item img{display:block;max-width:100%}
+.business_item_title{font-family:Raleway,sans-serif;font-size:20px;font-weight:700;line-height:1.25;letter-spacing:normal;color:#0075ff}
+.business_item_descr{font-family:Raleway,sans-serif;color:#000;line-height:1.38;font-size:16px}
+.product_block{background-color:#fddd37}
+.product_block_inner{max-width:1196px;margin:0 auto}
+.product_block_image{margin-top:221px;display:inline-block}
+.product_block_title{color:#000;font-family:Raleway,sans-serif;max-width:445px;font-size:55px;font-weight:800;display:inline-block;vertical-align:top;margin:252px 0 0 60px}
+.product_block_inner{background:url(../images/fill.png) no-repeat;background-position:right 52px}
+.sale_block{background-color:#0075ff;padding:125px 0 170px}
+.sale_block_inner{max-width:980px;margin:0 auto}
+.sale_block_title{font-size:59px;color:#fff;font-family:Raleway,sans-serif;font-weight:900;line-height:1.21;max-width:460px;margin:0 80px 0 0;display:inline-block;vertical-align:top}
+.sale_block_right_col{display:inline-block;width:430px;float:right}
+.sale_block_descr{font-family:Helveticaneue;line-height:1.1;color:#fff;font-size:20px}
+.sale_block_form input{outline:0;border:none;background-color:#2d8dff;color:#fff;font-size:23px;margin-bottom:15px;box-sizing:border-box;width:446px;height:55px;padding-left:15px}
+.sale_btn_wrap{text-align:center;padding-top:20px}
